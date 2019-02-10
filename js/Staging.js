@@ -7,6 +7,7 @@ function beginMathPractice() {
     } else {
         x.style.display = "none";
         y.style.display = "block";
+        mathSetup();
     }
 }
 
